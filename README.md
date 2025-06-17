@@ -6,41 +6,29 @@ This project consists of modeling and creating SQL databases based on the requir
 
 The main objective is to learn how to properly model SQL relational databases.
 
-## Level 1:
-
 ### Optics
-![diagram](./level-1/optic/diagram.png)
-- Creation script: `level-one/optic/create_script.sql`
-- Populate script with example data: `level-one/optic/populate.sql`
-- Queries: `level-one/optic/test_queries.sql`
+![diagram](./s2_01_lvl1/optics/optics_diagram.png)
+- Creation script: `s2_01_lvl1/optics/create_optics.sql`
+- Populate script with example data: `s2_01_lvl1/optics/insert_optics.sql`
+- Queries: `s2_01_lvl1/optics/queries_optics.sql`
 
 ### Pizzeria
-![diagram](./level-1/optic/diagram.png)
-- Creation script: `level-one/optic/create_script.sql`
-- Populate script with example data: `level-one/optic/populate.sql`
-- Queries: `level-one/optic/test_queries.sql`
-
-  ## Level 2:
-
-### Youtube
-![diagram](./level-1/optic/diagram.png)
-- Creation script: `level-one/optic/create_script.sql`
-- Populate script with example data: `level-one/optic/populate.sql`
-- Queries: `level-one/optic/test_queries.sql`
+![diagram](./s2_01_lvl1/pizzeria/pizzeria_diagram.png)
+- Creation script: `s2_01_lvl1/pizzeria/create_script.sql`
+- Populate script with example data: `s2_01_lvl1/pizzeria/insert_script.sql`
+- Queries: `s2_01_lvl1/pizzeria/queries_script.sql`
 
 ## 💻 Technologies Used
 
 - MySQL
 - MySQL Workbench
 - Docker
-- dbdiagram.io / draw.io (for ER diagrams)
 - Git & GitHub
 
 ## 📋 Requirements
 
 - MySQL 8.0+ installed locally
 - MySQL Workbench or another SQL client
-- Internet browser for diagram tools
 - Git for version control
 - Text/code editor (e.g., VS Code)
 
