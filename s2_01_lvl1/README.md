@@ -7,13 +7,13 @@ This project consists of modeling and creating SQL databases based on the requir
 The main objective is to learn how to properly model SQL relational databases.
 
 ### Optics
-![diagram](./s2_01_lvl1/optics/optics_diagram.png)
+![diagram](./optics/optics_diagram.png)
 - Creation script: `s2_01_lvl1/optics/create_optics.sql`
 - Populate script with example data: `s2_01_lvl1/optics/insert_optics.sql`
 - Queries: `s2_01_lvl1/optics/queries_optics.sql`
 
 ### Pizzeria
-![diagram](./s2_01_lvl1/pizzeria/pizzeria_diagram.png)
+![diagram](./pizzeria/pizzeria_diagram.png)
 - Creation script: `s2_01_lvl1/pizzeria/create_script.sql`
 - Populate script with example data: `s2_01_lvl1/pizzeria/insert_script.sql`
 - Queries: `s2_01_lvl1/pizzeria/queries_script.sql`
